@@ -1,0 +1,66 @@
+/*
+include font-family, font-size, background-color, display, with, text-align, color, and line-height.
+*/
+body {
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 16px;
+	background-color: aquamarine;
+	
+}
+
+header {
+	background-color: blue;
+}
+
+nav {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	background: lightcoral;
+	text-align: center;
+}
+
+main {
+	background-color: lightyellow;
+	display: contents;
+	line-height: 0.5cm;
+	padding: 0cm;
+}
+
+div {
+	background-color: yellow;
+}
+
+footer {
+	background-color: lightgray;
+	font-family: "Brush Script MT", cursive;
+	font-size: 20px;
+	text-align: center;
+	padding: 10px;
+}
+
+ul {
+	list-style: none;
+	display: contents;
+	line-height: 0.5cm;
+	padding: 0cm;
+}
+
+li {
+	background: lightblue;
+	text-align: center;
+	font-size: 20px;
+	display: inline-block;
+	margin: 20px;
+}
+
+h1 {
+	font-family: "Brush Script MT", cursive;
+	font-size: 32px;
+	background: lightslategray;
+	text-align: center;	
+}
+
+p {
+	font-family: "Courier New", Monospace;
+	font-size: 12px;
+}
